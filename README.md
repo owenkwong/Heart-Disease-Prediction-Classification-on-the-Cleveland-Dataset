@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Group 18's DSCI 100 Project
+Owen Kwong, Arissa Tejani, Emily Kehler, Miaomiao Zhu
